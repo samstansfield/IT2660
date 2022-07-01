@@ -6,4 +6,4 @@ In the second part of the assignment the goal is to compare the times for three 
 
 The Merge sort works by splitting the list in half, sorting each half and then Merging the two halves so that the result is sorted.  It is done recursively.  The order for the algorithm is generally log<sub>2</sub>(n).  
 
-
+For the Heap sort, start with the definition of a Heap:  A Heap is a Left Balanced Binary tree in which the largest node is the Root.  This is true for all subtrees.  The Heap sort first moves the nodes around in a Left Balanced Binary Tree until it is a Heap. One then sweaps the Root into the last unwalled position in the tree, walls off the newly swapped node (at the bottom of the tree) and reheaps the remaining elements.  It also has order log<sub>2</sub>(n). 
