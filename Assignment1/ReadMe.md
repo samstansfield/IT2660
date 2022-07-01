@@ -1,4 +1,4 @@
-#  Assignment 1, Student Data
+#  Student Data and Arrays
 
 There are four specific assignments that are part of this overall assignment.  Two are programming and the other two are questions to be answered.  In general, the A and C assignments are questions and the B and D assignments are programs.  
 
